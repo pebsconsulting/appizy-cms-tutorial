@@ -8,7 +8,7 @@ Appizy version: 0.10.0
 
 ## Starting point
 
-The [bmi_appizy.ods](bmi_appizy.ods) spreadsheet has been used to generate the content of ```appizy-output``` folder. It contains two files working together: 
+The ```bmi_appizy.ods``` spreadsheet has been used to generate the content of ```appizy-output``` folder. It contains two files working together: 
 
 ```
 appizy-output/
